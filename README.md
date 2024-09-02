@@ -14,9 +14,3 @@ This project is a Netflix clone built using React.js. The application replicates
 - **Search Functionality**: Search for your favorite movies and TV shows.
 - **Movie Details**: Click on any movie to view detailed information, including ratings, descriptions, and trailers.
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
